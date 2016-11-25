@@ -9,7 +9,7 @@ Files included :
 	<li>entertainment_center.py</li>
 	</ul>
 
-To run this project execute following command in your command line :<br/>
+To run this project download the above files and execute following command in your command line :<br/>
 	<b>python entertainment_center.py </b>
 
 Note: Make sure that python 2 is installed in your computer before running this program
